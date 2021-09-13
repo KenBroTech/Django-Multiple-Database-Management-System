@@ -1,0 +1,1 @@
+In this video, we will use Django routers to connect and integrate SQLite, Postgresql and MySQL Database Management Systems into s single Django Project. This second part of the video looks at writing database base queries and adding data from the frontend.
